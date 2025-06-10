@@ -1,4 +1,4 @@
-# 🦸 Avengers Website
+is# 🦸 Avengers Website
 
 Welcome to the **Avengers Website** – a fan-made project dedicated to Earth's Mightiest Heroes! This site presents profiles, powers, history, and visuals of Marvel's iconic Avengers.
 ## 🛠️ Tech Stack
@@ -20,3 +20,16 @@ Welcome to the **Avengers Website** – a fan-made project dedicated to Earth's 
    ```bash
    git clone https://github.com/josephntshingane/avengers-website.git
    cd avengers-website
+
+Project structure:
+
+avengers-website/
+│
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── images/
+│   └── [character-images]
+└── README.md
